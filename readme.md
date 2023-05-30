@@ -1,6 +1,6 @@
-mle-training-mlflow
+# mle-training-mlflow
 
-To run the file
+## To run the file
 
 We have to create an environment from conda.yaml file which is attached in this repository .
 
@@ -14,7 +14,7 @@ Activate the environment -- "conda activate mlflow-env"
 
 Use below code to launch the ML-Flow server:- mlflow server --backend-store-uri mlruns/ --default-artifact-root mlruns/ --host 0.0.0.0 --port 5000
 
-To execute the script
+## To execute the script
 
 $ conda env create -f mlflow_env.yml"
 
