@@ -1,4 +1,4 @@
-![image](https://github.com/SaiRam-Datascience/Ml-flow/assets/114495505/20e6c3f0-7c9b-4659-b025-17cb6a66aa82)# mle-training-mlflow
+# mle-training-mlflow
 
 ## To run the file
 
